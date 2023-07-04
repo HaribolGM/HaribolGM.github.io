@@ -1,7 +1,7 @@
 
 
-<h2>Watch your thoughts,
-  $${\color{red}they \space become \space your \space words.}$$
+<h2>
+  $${\color{red}Watch \space your \space thoughts,}$$
 $${\color{lightblue}they \space become \space your \space words.}$$
 
 Watch your words,
