@@ -1,8 +1,8 @@
 
 
 <h2>Watch your thoughts,
-  $${\color{red}they become your words.}$$
-
+  $${\color{red}they \space become \space your \space words.}$$
+$${\color{lightblue}they \space become \space your \space words.}$$
 
 Watch your words,
 they become your actions.
