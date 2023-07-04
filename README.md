@@ -10,23 +10,24 @@ $${\color{lightblue}they \space become \space your \space words.}$$
 
 
  <div>  
-Watch your words,
-they become your actions.
+ $${\color{red}Watch \space your \space words,}$$
+   $${\color{lightblue}they \space become \space your \space actions.}$$
+
  </div>
 
 <div> 
-Watch your actions, 
-they become your habits,
+   $${\color{red}Watch \space your \space actions,}$$
+ $${\color{lightblue}they \space become \space your \space habits,}$$
  </div>
 
 <div> 
-Watch your habits, 
-they become your character.
+   $${\color{red}Watch \space your \space habits,}$$
+ $${\color{lightblue}they \space become \space your \space character.}$$
  </div>
 
 <div> 
-Watch your character.
-It becomes your destiny
+ $${\color{red}Watch \space your \space character,}$$
+  $${\color{lightblue}It \space  becomes \space your \space destiny}$$
  </div>
 </h2>
 <h3># HaribolGM.github.io
