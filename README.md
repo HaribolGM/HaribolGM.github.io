@@ -1,6 +1,6 @@
 
 
-<h2>Watch your thoughts,
+<h2 style="color:red;">Watch your thoughts,
 they become your words.
 
 Watch your words,
