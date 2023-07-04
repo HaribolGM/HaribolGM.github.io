@@ -1,7 +1,8 @@
 
 
-<h2 style="color: green">Watch your thoughts,
-they become your words.
+<h2>Watch your thoughts,
+  $${\color{red}they become your words.}$$
+
 
 Watch your words,
 they become your actions.
